@@ -17,7 +17,7 @@ jobs:
 
       - name: Update only README
         run: |
-          echo "Last updated: $(date)" > README.md
+          echo "Last updated: $(date)" >> README.md
 
       - name: Commit and push only README
         run: |
