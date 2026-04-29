@@ -12,7 +12,7 @@ Focused on building scalable backend systems and cloud infrastructure
 ## 🚀 About Me
 
 * 7 years of experience in IT, Data, and System Engineering
-* Built full-stack e-commerce and Order Management Systems (OMS)
+* Built full-stack e-commerce and Scalable Systems
 * Experience with ERP systems and AI integration
 * Strong background in backend development, DevOps, and cloud architecture
 
