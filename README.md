@@ -30,7 +30,7 @@ Focused on building scalable backend systems and cloud infrastructure
 ## 📌 Featured Projects
 
 * OMS System (Order Management System)
-* AI Integration System
+* AI Integration System and Process
 * Cloud-based Web Applications
 
 ---
