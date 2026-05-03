@@ -5,7 +5,7 @@ Focused on building scalable backend systems and cloud infrastructure
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krischuang&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krischuang&layout=compact&langs_count=8&hide=html,css&v=3)
 
 ---
 
