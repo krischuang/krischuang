@@ -13,7 +13,7 @@ Focused on building scalable backend systems and cloud infrastructure
 
 * 7 years of experience in IT, Data, and System Engineering
 * Built full-stack e-commerce and Scalable Systems
-* Experience with ERP systems and AI integration
+* Experience with ERP systems and AI integration Process
 * Strong background in backend development, DevOps, and cloud architecture
 
 ---
