@@ -2,6 +2,8 @@
 
 ### Backend Engineer | AI Engineer | DevOps | Cloud
 
+> *"Building reliable software that scales from APIs to AI."*
+
 📍 Sydney, Australia  
 💼 Building production AI systems, scalable backend services, and cloud infrastructure.
 
@@ -146,6 +148,3 @@ Email: [kris.kh.chuang@gmail.com](mailto:kris.kh.chuang@gmail.com)
 
 Last updated: Wed Jun 24 20:51:17 UTC 2026
 
----
-
-> *"Building reliable software that scales from APIs to AI."*
