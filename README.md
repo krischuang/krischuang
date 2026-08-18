@@ -1,38 +1,31 @@
-# Hi there, I'm Kai-Hsiang (Kris) Chuang 👋
+# Hi, I'm Kai-Hsiang (Kris) Chuang 👋
 
-### Backend Engineer | AI Engineer | DevOps | Cloud
+### AI-Native Software Engineer | Applied AI • Backend • Cloud
 
-> *"Building reliable software that scales from APIs to AI."*
+> Building production AI systems and the backend infrastructure behind them.
 
 📍 Sydney, Australia  
-💼 Building production AI systems, scalable backend services, and cloud infrastructure.
+💼 Senior AI Software Consultant | Software Engineer  
+🌐 [Portfolio](https://krischuang.github.io/Personal-Website/) · 💼 [LinkedIn](https://www.linkedin.com/in/kai-hsiang-chuang-501450123/)
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with 7+ years of experience across backend engineering, DevOps, cloud infrastructure, and AI-powered applications.
+I'm a Software Engineer with 7+ years of experience across backend engineering, applied AI, cloud infrastructure, DevOps, enterprise systems, and data platforms.
 
-I enjoy designing production-ready systems that are reliable, scalable, and easy to maintain.
+My recent work focuses on building **production AI systems**, including LLM-powered applications, OCR and document intelligence pipelines, asynchronous workflows, healthcare integrations, and cloud infrastructure.
 
-Currently I'm focused on:
+I enjoy turning ambiguous product and engineering problems into reliable systems that can operate in real production environments.
 
-- 🤖 AI Agents & LLM Applications
-- ⚙️ Backend Architecture
+### Current Focus
+
+- 🤖 Production LLM & AI Applications
+- 🧠 AI Agents & Workflow Orchestration
+- ⚙️ Backend Architecture & APIs
+- 🔄 Async Processing & Distributed Workflows
 - ☁️ AWS Cloud Infrastructure
-- 🚀 DevOps & CI/CD Automation
-- 📊 Data Processing & System Integration
-
----
-
-## 💼 Professional Experience
-
-- 7+ years in Software Engineering & IT
-- Production experience building AI-powered healthcare systems
-- Designed scalable backend APIs using FastAPI & Node.js
-- Built cloud-native applications on AWS
-- Experience integrating ERP systems, OCR pipelines and LLM workflows
-- Full-stack development from backend APIs to modern React applications
+- 🚀 DevOps, CI/CD & Production Reliability
 
 ---
 
@@ -40,107 +33,100 @@ Currently I'm focused on:
 
 ### Languages
 
-Python • JavaScript • TypeScript • Java
+Python • TypeScript • JavaScript • Java
 
 ### Backend
 
-FastAPI • Node.js • Express • REST APIs
+FastAPI • Node.js • Express • REST APIs • Webhooks • OAuth
+
+### AI & LLM
+
+Amazon Bedrock • Claude • OpenAI • Ollama • RAG • AI Agents • MCP • Prompt Engineering • LLM Evaluation
+
+### Workflow & Data
+
+PostgreSQL • MySQL • MongoDB • Redis • BullMQ • Prisma
 
 ### Frontend
 
-React • Next.js • HTML • CSS • Tailwind CSS
+React • Next.js • TypeScript • Tailwind CSS
 
 ### Cloud & DevOps
 
-AWS • Docker • GitHub Actions • Linux • Nginx
+AWS • Docker • GitHub Actions • Linux • Nginx • CI/CD
 
-### Database
+### Testing
 
-MySQL • PostgreSQL • MongoDB • Prisma
-
-### AI
-
-OpenAI • Claude • LangChain • MCP • Ollama • RAG • Prompt Engineering
-
-### Tools
-
-Git • GitHub • Postman • VS Code
+Vitest • Integration Testing • E2E Testing • Regression Testing
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Work
 
-## 🏥 AI Registrar
+## 🏥 AI Document Intelligence & Healthcare Systems
 
-Production AI workflow for healthcare.
+Production AI workflows for healthcare combining OCR, LLM-based extraction, validation, asynchronous processing, human review, and clinical system integrations.
 
-- OCR Pipeline
-- LLM Extraction
-- Background Workers
-- Redis Queue
-- Clinical Document Sync
-- Healthcare API Integration
+- OCR & document intelligence pipelines
+- LLM structured data extraction
+- Redis / BullMQ background processing
+- Clinical document synchronisation
+- Healthcare API integrations
+- Deterministic AI safety controls
+- Automated integration & E2E testing
+- AWS security and data-residency controls
+
+`Python` `TypeScript` `AWS` `LLM` `Redis` `PostgreSQL`
 
 ---
 
 ## 🤖 WorkerAI
 
-Autonomous AI task scheduling platform.
+Modular AI task orchestration platform for building and running multi-stage AI workflows.
 
-- Multi-Agent Workflow
-- Claude Automation
-- Background Task Scheduling
-- AI Workflow Orchestration
-- Session Management
+- Multi-agent workflow orchestration
+- Background task execution
+- Task state management
+- Retry & failure recovery
+- Human-in-the-loop workflow support
+- Monitoring and reporting dashboard
 
----
-
-## 📦 OMS Platform
-
-Enterprise Order Management System.
-
-- Inventory Management
-- ERP Integration
-- Warehouse Automation
-- Microsoft SSO
-- REST API Integration
+`Python` `FastAPI` `PostgreSQL` `React` `Next.js`
 
 ---
 
-## ☁️ Cloud Platform
+## 📊 Enterprise & Automation Systems
 
-Cloud-native deployment infrastructure.
+Built enterprise platforms and automation workflows across ERP, order management, analytics, and cloud infrastructure.
 
-- Docker
-- AWS EC2
-- Reverse Proxy
-- HTTPS
-- CI/CD
-- Monitoring
+- ERP & Oracle integrations
+- Order and inventory management
+- Warehouse automation
+- Data processing pipelines
+- REST API integrations
+- AWS deployment infrastructure
+- Docker & CI/CD automation
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Exploring
 
-- Agentic AI
-- Multi-Agent Systems
+- Agentic AI Systems
+- Multi-Agent Architecture
 - AI Infrastructure
+- LLM Evaluation & Observability
 - Kubernetes
 - Distributed Systems
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect
 
-- 💼 LinkedIn
-- 🌐 Portfolio (Coming Soon)
-- 📧 kris.kh.chuang@gmail.com
+🌐 **Portfolio:** [krischuang.github.io/Personal-Website](https://krischuang.github.io/Personal-Website/)
 
----
+💼 **LinkedIn:** [Kai-Hsiang Chuang](https://www.linkedin.com/in/kai-hsiang-chuang-501450123/)
 
-## 📫 Contact
-
-Email: [kris.kh.chuang@gmail.com](mailto:kris.kh.chuang@gmail.com)
+📧 **Email:** [kris.kh.chuang@gmail.com](mailto:kris.kh.chuang@gmail.com)
 
 ---
 
