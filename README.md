@@ -63,6 +63,18 @@ Vitest • Integration Testing • E2E Testing • Regression Testing
 
 # 🚀 Selected Work
 
+## 📦 Selected Open Source Projects
+
+| Project | What it does | Stack | Repository |
+|---|---|---|---|
+| **WorkerAI** | Local-first platform for dispatching and monitoring AI-assisted work (Claude CLI) across remote servers via SSH | TypeScript, Next.js, PostgreSQL, Prisma | [krischuang/WorkerAI](https://github.com/krischuang/WorkerAI) |
+| **ApplyFlow** | AI-powered job application tracker — parses resumes, scores roles with Claude, automates Seek.com.au applications | Python, FastAPI, TypeScript, Next.js, Java | [krischuang/ApplyFlow](https://github.com/krischuang/ApplyFlow) |
+| **UTSFE** | Content-publishing platform with JWT auth, RSA-encrypted login, and AI summary polling (university group project) | Next.js, TypeScript, React | [krischuang/IP_Group_Assignment_Frontend](https://github.com/krischuang/IP_Group_Assignment_Frontend) |
+| **Flashcard Learning App** | Full-stack flashcard study app with active-recall review | React, FastAPI, MySQL | [krischuang/Flashcard_Learning_App](https://github.com/krischuang/Flashcard_Learning_App) |
+| **Personal Website** | Personal portfolio site | HTML, TypeScript, CSS | [krischuang/Personal-Website](https://github.com/krischuang/Personal-Website) |
+
+---
+
 ## 🏥 AI Document Intelligence & Healthcare Systems
 
 Production AI workflows for healthcare combining OCR, LLM-based extraction, validation, asynchronous processing, human review, and clinical system integrations.
@@ -82,16 +94,15 @@ Production AI workflows for healthcare combining OCR, LLM-based extraction, vali
 
 ## 🤖 WorkerAI
 
-Modular AI task orchestration platform for building and running multi-stage AI workflows.
+Local-first task orchestration platform for dispatching and monitoring AI-assisted work across remote servers.
 
-- Multi-agent workflow orchestration
-- Background task execution
-- Task state management
-- Retry & failure recovery
-- Human-in-the-loop workflow support
-- Monitoring and reporting dashboard
+- Project & task lifecycle management
+- SSH-based server registration and dispatch
+- Claude CLI usage monitoring with dispatch gating
+- Interactive browser SSH terminal (WebSocket + xterm.js)
+- Priority queue and daily execution reports
 
-`Python` `FastAPI` `PostgreSQL` `React` `Next.js`
+`TypeScript` `Next.js` `PostgreSQL` `Prisma` `Docker`
 
 ---
 
@@ -132,5 +143,5 @@ Built enterprise platforms and automation workflows across ERP, order management
 
 ## 📅 Last Update
 
-Last updated: Mon Sep  7 21:56:49 UTC 2026
+Last updated: Tue Sep  8 UTC 2026
 
