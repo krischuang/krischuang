@@ -53,11 +53,11 @@ React • Next.js • TypeScript • Tailwind CSS
 
 ### Cloud & DevOps
 
-AWS • Docker • GitHub Actions • Linux • Nginx • CI/CD
+AWS • Kubernetes • Infrastructure as Code (AWS CDK) • Docker • GitHub Actions • Linux • Nginx • CI/CD
 
 ### Testing
 
-Vitest • Integration Testing • E2E Testing • Regression Testing
+Vitest • Jest • Integration Testing • E2E Testing • Regression Testing
 
 ---
 
@@ -68,6 +68,8 @@ Vitest • Integration Testing • E2E Testing • Regression Testing
 | Project | What it does | Stack | Repository |
 |---|---|---|---|
 | **WorkerAI** | Local-first platform for dispatching and monitoring AI-assisted work (Claude CLI) across remote servers via SSH | TypeScript, Next.js, PostgreSQL, Prisma | [krischuang/WorkerAI](https://github.com/krischuang/WorkerAI) |
+| **k8s-production-lab** | Production-style Kubernetes deployment: rolling updates, autoscaling, PodDisruptionBudget, least-privilege RBAC, default-deny NetworkPolicy, exercised against real failure scenarios on a live cluster | Python, Kubernetes, Docker | [krischuang/k8s-production-lab](https://github.com/krischuang/k8s-production-lab) |
+| **Serverless GenAI Request Service** | Complete AWS serverless generative-AI service (API Gateway, Lambda, DynamoDB, Amazon Bedrock) defined entirely via AWS CDK, with least-privilege IAM, guardrails, observability, and 155 Jest tests | TypeScript, AWS CDK, Bedrock | [krischuang/43030-aws-serverless-genai](https://github.com/krischuang/43030-aws-serverless-genai) |
 | **ApplyFlow** | AI-powered job application tracker — parses resumes, scores roles with Claude, automates Seek.com.au applications | Python, FastAPI, TypeScript, Next.js, Java | [krischuang/ApplyFlow](https://github.com/krischuang/ApplyFlow) |
 | **UTSFE** | Content-publishing platform with JWT auth, RSA-encrypted login, and AI summary polling (university group project) | Next.js, TypeScript, React | [krischuang/IP_Group_Assignment_Frontend](https://github.com/krischuang/IP_Group_Assignment_Frontend) |
 | **Flashcard Learning App** | Full-stack flashcard study app with active-recall review | React, FastAPI, MySQL | [krischuang/Flashcard_Learning_App](https://github.com/krischuang/Flashcard_Learning_App) |
@@ -122,11 +124,10 @@ Built enterprise platforms and automation workflows across ERP, order management
 
 ## 📈 Currently Exploring
 
-- Agentic AI Systems
-- Multi-Agent Architecture
+- Agentic AI Systems & Multi-Agent Orchestration (LangGraph)
 - AI Infrastructure
 - LLM Evaluation & Observability
-- Kubernetes
+- Infrastructure as Code with Terraform
 - Distributed Systems
 
 ---
@@ -143,5 +144,5 @@ Built enterprise platforms and automation workflows across ERP, order management
 
 ## 📅 Last Update
 
-Last updated: Tue Nov 10 01:56:57 UTC 2026
+Last updated: 2026-11-11
 
