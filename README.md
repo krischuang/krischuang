@@ -1,134 +1,85 @@
 # Hi, I'm Kai-Hsiang (Kris) Chuang 👋
 
-### AI-Native Software Engineer | Applied AI • Backend • Cloud
+### Senior Software Engineer | Project Technical Lead | AI Systems • Backend • Cloud
 
 > Building production AI systems and the backend infrastructure behind them.
 
-📍 Sydney, Australia  
-💼 Senior AI Software Consultant | Software Engineer  
+📍 Sydney, Australia
+💼 Senior AI Software Consultant | Project Technical Lead at Airlie (by AI Registrar)
 🌐 [Portfolio](https://krischuang.github.io/Personal-Website/) · 💼 [LinkedIn](https://www.linkedin.com/in/kai-hsiang-chuang-501450123/)
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with 7+ years of experience across backend engineering, applied AI, cloud infrastructure, DevOps, enterprise systems, and data platforms.
+Senior software engineer with 7+ years of experience across backend, full-stack and cloud engineering, with recent focus on AI-powered systems and applied LLM integration. I'm currently Project Technical Lead for two AI-powered healthcare products at Airlie, leading technical readiness review, architecture and risk assessment, and AWS Bedrock evaluation preparation, alongside hands-on delivery of backend services. I move comfortably between technical leadership and hands-on implementation, and I'd rather explain a trade-off plainly than hide behind jargon.
 
-My recent work focuses on building **production AI systems**, including LLM-powered applications, OCR and document intelligence pipelines, asynchronous workflows, healthcare integrations, and cloud infrastructure.
+### 🎯 Current Focus
 
-I enjoy turning ambiguous product and engineering problems into reliable systems that can operate in real production environments.
-
-### Current Focus
-
-- 🤖 Production LLM & AI Applications
-- 🧠 AI Agents & Workflow Orchestration
-- ⚙️ Backend Architecture & APIs
-- 🔄 Async Processing & Distributed Workflows
-- ☁️ AWS Cloud Infrastructure
-- 🚀 DevOps, CI/CD & Production Reliability
+- Leading technical readiness review, architecture and risk assessment, and evaluation planning as Project Technical Lead for Ask Airlie and Airlie Patient Assistant
+- Coordinating AWS Bedrock evaluation preparation: IAM, SSO, inference profiles, CloudTrail, least-privilege access and cost controls
+- Building and operating production LLM-powered backend systems (OpenAI, Anthropic Claude, Bedrock)
+- Backend architecture, asynchronous processing, authentication and reliability
+- Completing a Master of Information Technology at UTS
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
-Python • TypeScript • JavaScript • Java
+Python • TypeScript • JavaScript • Java • C#
 
 ### Backend
-
-FastAPI • Node.js • Express • REST APIs • Webhooks • OAuth
+FastAPI • Node.js • Express • Spring Boot • REST API design • OAuth 2.0 / OIDC
 
 ### AI & LLM
+Amazon Bedrock • Anthropic Claude • OpenAI APIs • structured outputs and tool calling • LLM fine-tuning (TensorFlow) • LLM evaluation • on-device AI (Apple Intelligence)
 
-Amazon Bedrock • Claude • OpenAI • Ollama • RAG • AI Agents • MCP • Prompt Engineering • LLM Evaluation
-
-### Workflow & Data
-
-PostgreSQL • MySQL • MongoDB • Redis • BullMQ • Prisma
+### Data
+PostgreSQL • MySQL • Oracle DB • Redis • BullMQ • Prisma ORM • SwiftData
 
 ### Frontend
-
 React • Next.js • TypeScript • Tailwind CSS
 
 ### Cloud & DevOps
-
-AWS • Kubernetes • Infrastructure as Code (AWS CDK) • Docker • GitHub Actions • Linux • Nginx • CI/CD
+AWS (EC2, ECS, Lambda, IAM, CloudWatch) • Infrastructure as Code (AWS CDK) • Kubernetes • Docker • GitHub Actions CI/CD • Nginx • Linux
 
 ### Testing
-
-Vitest • Jest • Integration Testing • E2E Testing • Regression Testing
+Vitest • Jest • Pytest • Playwright • XCTest
 
 ---
 
-# 🚀 Selected Work
-
-## 📦 Selected Open Source Projects
+## 📦 Featured Projects
 
 | Project | What it does | Stack | Repository |
 |---|---|---|---|
-| **WorkerAI** | Local-first platform for dispatching and monitoring AI-assisted work (Claude CLI) across remote servers via SSH | TypeScript, Next.js, PostgreSQL, Prisma | [krischuang/WorkerAI](https://github.com/krischuang/WorkerAI) |
+| **ApplyFlow** | AI-powered job application platform: parses resumes with Claude, scores roles against a profile, and drives Playwright through real Seek.com.au Quick Apply submissions, not just tracking | Python, FastAPI, Next.js, TypeScript, Claude API, Playwright | [krischuang/ApplyFlow](https://github.com/krischuang/ApplyFlow) |
+| **Serverless GenAI Request Service** | Complete AWS serverless generative AI service (API Gateway, Lambda, DynamoDB, Amazon Bedrock) defined entirely via AWS CDK, with least-privilege IAM, guardrails, observability, and a 13-case structured AI evaluation suite | TypeScript, AWS CDK, Bedrock, Jest | [krischuang/43030-aws-serverless-genai](https://github.com/krischuang/43030-aws-serverless-genai) |
 | **k8s-production-lab** | Production-style Kubernetes deployment: rolling updates, autoscaling, PodDisruptionBudget, least-privilege RBAC, default-deny NetworkPolicy, exercised against real failure scenarios on a live cluster | Python, Kubernetes, Docker | [krischuang/k8s-production-lab](https://github.com/krischuang/k8s-production-lab) |
-| **Serverless GenAI Request Service** | Complete AWS serverless generative-AI service (API Gateway, Lambda, DynamoDB, Amazon Bedrock) defined entirely via AWS CDK, with least-privilege IAM, guardrails, observability, and 155 Jest tests | TypeScript, AWS CDK, Bedrock | [krischuang/43030-aws-serverless-genai](https://github.com/krischuang/43030-aws-serverless-genai) |
-| **ApplyFlow** | AI-powered job application tracker — parses resumes, scores roles with Claude, automates Seek.com.au applications | Python, FastAPI, TypeScript, Next.js, Java | [krischuang/ApplyFlow](https://github.com/krischuang/ApplyFlow) |
-| **UTSFE** | Content-publishing platform with JWT auth, RSA-encrypted login, and AI summary polling (university group project) | Next.js, TypeScript, React | [krischuang/IP_Group_Assignment_Frontend](https://github.com/krischuang/IP_Group_Assignment_Frontend) |
-| **Flashcard Learning App** | Full-stack flashcard study app with active-recall review | React, FastAPI, MySQL | [krischuang/Flashcard_Learning_App](https://github.com/krischuang/Flashcard_Learning_App) |
-| **Personal Website** | Personal portfolio site | HTML, TypeScript, CSS | [krischuang/Personal-Website](https://github.com/krischuang/Personal-Website) |
+| **FridgeFit** | iOS app that reads grocery receipts on-device with Apple Intelligence, tracks pantry stock, and suggests recipes from what's actually available; layered architecture with 1,800+ unit tests and a Firebase-emulator-tested Cloud Functions backend | Swift, SwiftData, Apple Intelligence, Firebase, TypeScript | [krischuang/FridgeFit](https://github.com/krischuang/FridgeFit) |
+
+**Also:** [ApplyFlow-Java](https://github.com/krischuang/ApplyFlow-Java), a Spring Boot (Java 21) implementation of the same application-tracking API, built as a polyglot companion to ApplyFlow.
 
 ---
 
-## 🏥 AI Document Intelligence & Healthcare Systems
+## 🏥 Professional Engineering Experience
 
-Production AI workflows for healthcare combining OCR, LLM-based extraction, validation, asynchronous processing, human review, and clinical system integrations.
+**Airlie (by AI Registrar), Sydney · Senior AI Software Consultant | Project Technical Lead** (current)
 
-- OCR & document intelligence pipelines
-- LLM structured data extraction
-- Redis / BullMQ background processing
-- Clinical document synchronisation
-- Healthcare API integrations
-- Deterministic AI safety controls
-- Automated integration & E2E testing
-- AWS security and data-residency controls
+Appointed Project Technical Lead for Ask Airlie and Airlie Patient Assistant, leading technical readiness review, architecture and risk assessment, and evaluation planning for the platform's LLM-powered applications. Coordinating AWS Bedrock evaluation preparation (IAM, SSO, inference profiles, CloudTrail, least-privilege access, cost controls) and working directly with technical stakeholders to agree priorities and resolve blockers.
 
-`Python` `TypeScript` `AWS` `LLM` `Redis` `PostgreSQL`
+Alongside this, I own backend services for the platform: an LLM-based document extraction pipeline (OpenAI and Claude APIs) with structured output schemas, tool calling and a human-in-the-loop review step before records are saved; asynchronous processing pipelines (Node.js/TypeScript, PostgreSQL, Redis, BullMQ) secured with OAuth/OIDC and row-level security; and integration with Halaxy, an external practice management system.
 
----
-
-## 🤖 WorkerAI
-
-Local-first task orchestration platform for dispatching and monitoring AI-assisted work across remote servers.
-
-- Project & task lifecycle management
-- SSH-based server registration and dispatch
-- Claude CLI usage monitoring with dispatch gating
-- Interactive browser SSH terminal (WebSocket + xterm.js)
-- Priority queue and daily execution reports
-
-`TypeScript` `Next.js` `PostgreSQL` `Prisma` `Docker`
-
----
-
-## 📊 Enterprise & Automation Systems
-
-Built enterprise platforms and automation workflows across ERP, order management, analytics, and cloud infrastructure.
-
-- ERP & Oracle integrations
-- Order and inventory management
-- Warehouse automation
-- Data processing pipelines
-- REST API integrations
-- AWS deployment infrastructure
-- Docker & CI/CD automation
+**Earlier roles** span full-stack delivery for a real-time Order Management System, DevOps and CI/CD for a Dockerised platform, 3.8 years of enterprise engineering at Vanguard International Semiconductor Corporation (Oracle integrations, internal LLM fine-tuning, CI/CD), and data engineering at AlfredCamera.
 
 ---
 
 ## 📈 Currently Exploring
 
-- Agentic AI Systems & Multi-Agent Orchestration (LangGraph)
-- AI Infrastructure
-- LLM Evaluation & Observability
-- Infrastructure as Code with Terraform
-- Distributed Systems
+- Terraform, alongside AWS CDK
+- LangGraph and multi-agent orchestration
+- GraphQL
+- Distributed systems patterns
 
 ---
 
@@ -144,5 +95,4 @@ Built enterprise platforms and automation workflows across ERP, order management
 
 ## 📅 Last Update
 
-Last updated: Fri Nov 13 00:03:38 UTC 2026
-
+Last updated: Fri Nov 13 07:47:51 UTC 2026
